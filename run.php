@@ -2,7 +2,7 @@
 session_start();
 set_time_limit(0);
 error_reporting(0);
-$refcode = "EUYGXJ";
+$refcode = "HMYPZS";
 $jml = 100;
 include 'Signature.php';
 	if(isset($refcode))
